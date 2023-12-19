@@ -1,4 +1,4 @@
-# Welcome to Lotus 🪷
+# Lotus 🪷
 
 **Lotus** is a web-based writing app that supports [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
@@ -26,3 +26,6 @@ I hope you enjoy Lotus!
 Thanks for reading :)
 
 -Priyanshu, [@probablyliquid](https://priyanshuvolvotkar.in/)
+
+Update (19th December 2023):
+- Lotus is now open-source :)
