@@ -29,4 +29,5 @@ Thanks for reading :)
 ___
 
 Update (19th December 2023):
+- Lotus is now accessible as a webapp 
 - Lotus is now open-source :)
