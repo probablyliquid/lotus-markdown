@@ -22,6 +22,7 @@ TLDR:
 - Accessible on all devices
 - Free!
 
-I hope you enjoy Lotus. Try it out now, by editing in your own text! Thanka:)
+I hope you enjoy Lotus! 
+Thanks for reading :)
 
--Priyanshu, [@priyanshuvolvotkar](https://priyanshuvolvotkar.in/)
+-Priyanshu, [@probablyliquid](https://priyanshuvolvotkar.in/)
